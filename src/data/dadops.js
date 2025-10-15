@@ -5,7 +5,8 @@ const menu = [
     area: "FullStack",
     tecnologias: "React, Node.js",
     img: "/assets/projetos/PassaPraEla.png",
-    descricao: "Teclado Gamer de alta area",
+    descricao:
+      "Plataforma web para conectar e organizar o futebol feminino amador.",
     repositorio: "https://github.com/EnoTech-CP1-FRONT/PassaPraEla.git",
     link: "https://passa-pra-ela.vercel.app/",
     detalhes:
@@ -17,7 +18,8 @@ const menu = [
     area: "FrontEnd",
     tecnologias: "React, Tailwind CSS, JavaScript (ES6+), HTML5",
     img: "/assets/projetos/Calculadora.png",
-    descricao: "Rato motorizado top",
+    descricao:
+      "Calculadora funcional com histórico, construída com React e Tailwind CSS.",
     repositorio: "https://github.com/Gakira06/Calculadora.git",
     link: "https://calculadora-veltrix.vercel.app/",
     detalhes:
@@ -29,7 +31,8 @@ const menu = [
     area: "Dados",
     tecnologias: "Python, Streamlit, Pandas, Plotly",
     img: "/assets/projetos/AnaliseDeDados.png",
-    descricao: "Cadeira com massageador",
+    descricao:
+      "Dashboard interativo para análise de dados salariais em tecnologia.",
     repositorio: "https://github.com/Gakira06/Primeira-An-lise-de-Dados.git",
     link: "",
     detalhes:
@@ -51,9 +54,11 @@ const menu = [
     id: 5,
     titulo: "Lista de Tarefas",
     area: "FrontEnd",
-    tecnologias: "JavaScript (ES6+), HTML5, CSS3, SweetAlert2avaScript (ES6+), HTML5, CSS3, SweetAlert2",
+    tecnologias:
+      "JavaScript (ES6+), HTML5, CSS3, SweetAlert2avaScript (ES6+), HTML5, CSS3, SweetAlert2",
     img: "/assets/projetos/ListaDeTarefas.png",
-    descricao: "Jogo do mario bros",
+    descricao:
+      "Clássica lista de tarefas com persistência de dados no navegador.",
     repositorio: "https://github.com/Gakira06/ListaDeTarefas.git",
     link: "https://gakira06.github.io/ListaDeTarefas/pages/listaDeTarefas.html",
     detalhes:
@@ -65,7 +70,8 @@ const menu = [
     area: "Backend",
     tecnologias: "JavaScript (ES6+), Expressões Regulares (Regex), HTML5, CSS3",
     img: "/assets/projetos/ValidadorDeCartao.png",
-    descricao: "Jogo voando alto",
+    descricao:
+      "Ferramenta que valida e identifica a bandeira de cartões de crédito.",
     repositorio: "https://github.com/Gakira06/Verificador-Bandeira-Cartao.git",
     link: "https://gakira06.github.io/Verificador-Bandeira-Cartao/",
     detalhes:
