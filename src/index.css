@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-1: #121212;
+  --color-fundoLoading: #010400;
+  /* Define 'Inter' como a fonte padrão (gera a classe .font-sans) */
+  --font-family-sans: "Inter", sans-serif;
+
+  /* Define 'Orbitron' como uma fonte customizada (gera a classe .font-orbitron) */
+  --font-family-orbitron: "Orbitron", sans-serif;
+}
+
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
